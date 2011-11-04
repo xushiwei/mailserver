@@ -1,0 +1,17 @@
+To do:
+
+* Fix all the FIXMEs
+* Add docs
+* Make some of the module options configurable
+* Add some kind of example auth_*sql module
+
+Not happening very soon:
+
+* Use automake?
+* make auth_getpw work on Mac OS X with encrypted users (if possible)
+
+Probably never happen:
+
+* Add SASL support??
+* Add message expiry support
+* Add privsep support?
